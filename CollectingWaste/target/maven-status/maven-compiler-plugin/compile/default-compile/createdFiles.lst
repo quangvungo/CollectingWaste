@@ -1,0 +1,5 @@
+Model\TrashCar.class
+Controller\DumpTrash.class
+com\mycompany\collectingwaste\CollectingWaste.class
+View\Collecting.class
+View\Validation.class
